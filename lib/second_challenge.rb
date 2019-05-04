@@ -7,7 +7,5 @@ def second_challenge
   }
 
   #code your solution here!
-groceries.each do |category, item|
-  puts "#{item}"
-
+groceries.values.flatten
 end
