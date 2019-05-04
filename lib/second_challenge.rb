@@ -11,5 +11,3 @@ groceries.each do |category, item|
   puts "#{item}"
 
 end
-
-
