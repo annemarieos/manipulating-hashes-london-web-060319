@@ -8,8 +8,8 @@ def second_challenge
 
   #code your solution here!
 groceries.each do |category, item|
-
-  item.values
-
+  puts "#{item}"
 
 end
+
+
